@@ -1,6 +1,3 @@
-from random import random
-import numpy as np
-
 zodiac_signs = ['Aries', 'Taurus', 'Gemini', 'Cancer', 'Leo', 'Virgo', 'Libra', 'Scorpio',
                 'Sagittarius', 'Capricorn', 'Aquarius', 'Pisces']
 Aries_to_all = ['91', '81', '72', '81', '97', '84', '83', '76', '92', '82', '82', '87'] #done
