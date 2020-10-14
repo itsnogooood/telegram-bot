@@ -4,8 +4,6 @@ from man_to_woman import zodiac_signs, man_list
 from woman_to_man import woman_list
 
 
-bot = telebot.TeleBot('1396114943:AAE5RcR6Grkb0to-UytMtjv9udP1NynFA8c')
-
 
 @bot.message_handler(commands=['help'])
 def start_message(message):
